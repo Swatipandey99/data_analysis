@@ -23,7 +23,6 @@ Processes:
   2) Net Cost Difference : Sum(cost - Manufacturing cost)
 4) Dashboard Design by Adding Key Visuals
 
-Dashboard Interaction : https://public.tableau.com/app/profile/swati.pandey3244/viz/supplychain_17294980333910/Dashboard1
-
+Dashboard Interaction : (https://public.tableau.com/app/profile/swati.pandey3244/viz/supplychain_17294980333910/Dashboard1)
 Dashboard : ![supply_chain_dashboard](https://github.com/user-attachments/assets/e7128bc4-d417-445a-87ff-865d06283063)
 
